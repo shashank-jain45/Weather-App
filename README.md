@@ -14,3 +14,7 @@
 2. Pub.dev
 3. UI is inspired from https://github.com/ArizArmeidi/FlutterWeather P.S- Implemetation is completely different 
 4. Stack Overflow for some other bugs 
+
+
+https://github.com/sshasshank/Shashank_221IT062/assets/120735507/4f951907-67c6-4de8-b0ec-e0d4fcac82d5
+
