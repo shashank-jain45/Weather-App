@@ -2,7 +2,7 @@
 1. Fetches the weather of current location
 2. Search feature to check the weather of any city 
 3. Dark mode and light mode
-4. refresh the fetched data
+4. Refresh the fetched data
 5. Implemented using BLOC state Management 
 
 ## Bugs 
