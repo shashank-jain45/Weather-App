@@ -5,9 +5,10 @@
 4. Refresh the fetched data
 5. Implemented using BLOC state Management 
 
-## Bugs 
+## Known Bugs 
 1. No refresh Indicator when fetching data
 2. The PageView won't shift to new page added
+3. RenderFlex overflows on small screen sizes
 
 ## References
 1. Stack Overflow and youtube tutorials for learning REST API's & geolocator 
