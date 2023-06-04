@@ -4,7 +4,7 @@
 3. Dark mode and light mode
 4. Refresh the fetched data
 5. Implemented using BLOC state Management 
-6. Dynamic UI to different screen sizes
+6. UI Adaptable to different screen sizes
 
 ## Known Bugs 
 1. No refresh Indicator when fetching data
